@@ -5,7 +5,6 @@
 #include "SetSettings.h";
 #include "clsSetSettings.h";
 #include "clsUtil.h";
-#include "FinalResult.h";
 
 using namespace std;
 
