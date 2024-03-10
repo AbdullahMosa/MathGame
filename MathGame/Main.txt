@@ -1,0 +1,11 @@
+#include <iostream>
+#include "clsMathGameScreen.h";
+
+using namespace std;
+
+int main()
+{
+	clsMathGameScreen::StartGame();
+
+	return 0;
+}
